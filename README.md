@@ -1,4 +1,4 @@
-# Breast Cancer detection using Logistic Regression
+# Breast Cancer detection using Logistic Regression 
 
 A logistic regression model to identify correlations between the following 9 independent variables and the class of the tumor (benign or malignant).
 
